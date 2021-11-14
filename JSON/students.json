@@ -1,0 +1,12 @@
+{
+"students": {
+ "id": "1",
+ "name": "Sheunesu Makura",
+ "modules": "Java Programming",
+ "modeofdelivery": "Online",
+ "module": "C# programming",
+ "modeofdelivery": "Face to Face",
+ "details": "email: sheunesu@eduvos.com",
+ "address": "44 Graystone drive Sandton"
+}
+}
